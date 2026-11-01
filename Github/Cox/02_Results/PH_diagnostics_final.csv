@@ -1,0 +1,13 @@
+Acceleration intensity interval,Analysis role,Exposure PH chi-square,Raw exposure PH P,FDR-adjusted exposure PH P within 11 narrow intervals,Minimum covariate PH P,Covariate with PH P < 0.05
+125-150 mg,Narrow interval,6.975,0.0083,0.0909,0.0211,Townsend deprivation index
+150-175 mg,Narrow interval,4.872,0.0273,0.1501,0.0229,Townsend deprivation index
+175-200 mg,Narrow interval,2.909,0.0881,0.2908,0.0232,Townsend deprivation index
+200-225 mg,Narrow interval,2.617,0.1057,0.2908,0.0222,Townsend deprivation index
+225-250 mg,Narrow interval,1.037,0.3085,0.4848,0.0226,Townsend deprivation index
+250-275 mg,Narrow interval,0.717,0.3973,0.4856,0.0220,Townsend deprivation index
+275-300 mg,Narrow interval,0.739,0.3901,0.4856,0.0223,Townsend deprivation index
+300-325 mg,Narrow interval,1.613,0.2041,0.3922,0.0217,Townsend deprivation index
+325-350 mg,Narrow interval,0.002,0.9680,0.9680,0.0231,Townsend deprivation index
+350-375 mg,Narrow interval,1.545,0.2139,0.3922,0.0221,Townsend deprivation index
+375-400 mg,Narrow interval,0.164,0.6851,0.7536,0.0226,Townsend deprivation index
+125-400 mg,Prespecified overall comparator,4.250,0.0392,,0.0221,Townsend deprivation index

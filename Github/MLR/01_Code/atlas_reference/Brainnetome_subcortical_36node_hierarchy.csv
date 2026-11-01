@@ -1,0 +1,37 @@
+﻿BN_Index,Hemisphere,Region,Cyto_Label,Gyrus,Lobe,Yeo7_Network,Yeo7_Name,Yeo7_Abbreviation,Yeo17_Network,Yeo17_Name,Is_Cortical,Region_official,Structure,Bilateral_subregion,Raw_node
+211,L,Amyg_2_1,mAmyg,Amyg,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,Amyg_L_2_1,Amygdala,mAmyg,Amyg_L_2_1
+212,R,Amyg_2_1,mAmyg,Amyg,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,Amyg_R_2_1,Amygdala,mAmyg,Amyg_R_2_1
+213,L,Amyg_2_2,lAmyg,Amyg,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,Amyg_L_2_2,Amygdala,lAmyg,Amyg_L_2_2
+214,R,Amyg_2_2,lAmyg,Amyg,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,Amyg_R_2_2,Amygdala,lAmyg,Amyg_R_2_2
+215,L,Hipp_2_1,rHipp,Hipp,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,Hipp_L_2_1,Hippocampus,rHipp,Hipp_L_2_1
+216,R,Hipp_2_1,rHipp,Hipp,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,Hipp_R_2_1,Hippocampus,rHipp,Hipp_R_2_1
+217,L,Hipp_2_2,cHipp,Hipp,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,Hipp_L_2_2,Hippocampus,cHipp,Hipp_L_2_2
+218,R,Hipp_2_2,cHipp,Hipp,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,Hipp_R_2_2,Hippocampus,cHipp,Hipp_R_2_2
+219,L,BG_6_1,vCa,BG,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,BG_L_6_1,Basal ganglia,vCa,BG_L_6_1
+220,R,BG_6_1,vCa,BG,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,BG_R_6_1,Basal ganglia,vCa,BG_R_6_1
+221,L,BG_6_2,GP,BG,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,BG_L_6_2,Basal ganglia,GP,BG_L_6_2
+222,R,BG_6_2,GP,BG,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,BG_R_6_2,Basal ganglia,GP,BG_R_6_2
+223,L,BG_6_3,NAC,BG,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,BG_L_6_3,Basal ganglia,NAC,BG_L_6_3
+224,R,BG_6_3,NAC,BG,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,BG_R_6_3,Basal ganglia,NAC,BG_R_6_3
+225,L,BG_6_4,vmPu,BG,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,BG_L_6_4,Basal ganglia,vmPu,BG_L_6_4
+226,R,BG_6_4,vmPu,BG,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,BG_R_6_4,Basal ganglia,vmPu,BG_R_6_4
+227,L,BG_6_5,dCa,BG,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,BG_L_6_5,Basal ganglia,dCa,BG_L_6_5
+228,R,BG_6_5,dCa,BG,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,BG_R_6_5,Basal ganglia,dCa,BG_R_6_5
+229,L,BG_6_6,dlPu,BG,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,BG_L_6_6,Basal ganglia,dlPu,BG_L_6_6
+230,R,BG_6_6,dlPu,BG,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,BG_R_6_6,Basal ganglia,dlPu,BG_R_6_6
+231,L,Tha_8_1,mPFtha,Tha,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,Tha_L_8_1,Thalamus,mPFtha,Tha_L_8_1
+232,R,Tha_8_1,mPFtha,Tha,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,Tha_R_8_1,Thalamus,mPFtha,Tha_R_8_1
+233,L,Tha_8_2,mPMtha,Tha,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,Tha_L_8_2,Thalamus,mPMtha,Tha_L_8_2
+234,R,Tha_8_2,mPMtha,Tha,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,Tha_R_8_2,Thalamus,mPMtha,Tha_R_8_2
+235,L,Tha_8_3,Stha,Tha,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,Tha_L_8_3,Thalamus,Stha,Tha_L_8_3
+236,R,Tha_8_3,Stha,Tha,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,Tha_R_8_3,Thalamus,Stha,Tha_R_8_3
+237,L,Tha_8_4,rTtha,Tha,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,Tha_L_8_4,Thalamus,rTtha,Tha_L_8_4
+238,R,Tha_8_4,rTtha,Tha,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,Tha_R_8_4,Thalamus,rTtha,Tha_R_8_4
+239,L,Tha_8_5,PPtha,Tha,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,Tha_L_8_5,Thalamus,PPtha,Tha_L_8_5
+240,R,Tha_8_5,PPtha,Tha,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,Tha_R_8_5,Thalamus,PPtha,Tha_R_8_5
+241,L,Tha_8_6,Otha,Tha,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,Tha_L_8_6,Thalamus,Otha,Tha_L_8_6
+242,R,Tha_8_6,Otha,Tha,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,Tha_R_8_6,Thalamus,Otha,Tha_R_8_6
+243,L,Tha_8_7,cTtha,Tha,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,Tha_L_8_7,Thalamus,cTtha,Tha_L_8_7
+244,R,Tha_8_7,cTtha,Tha,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,Tha_R_8_7,Thalamus,cTtha,Tha_R_8_7
+245,L,Tha_8_8,lPFtha,Tha,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,Tha_L_8_8,Thalamus,lPFtha,Tha_L_8_8
+246,R,Tha_8_8,lPFtha,Tha,Subcortical Nuclei,0,Subcortical,SC,0,Subcortical,False,Tha_R_8_8,Thalamus,lPFtha,Tha_R_8_8
