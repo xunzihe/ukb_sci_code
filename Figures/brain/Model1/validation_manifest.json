@@ -1,0 +1,34 @@
+{
+  "model": "Model1",
+  "significant_records": 86,
+  "unique_edges": 79,
+  "all_positive": true,
+  "statistic": "t_PA",
+  "active_nodes": 98,
+  "max_degree": 6,
+  "t_full_precision": [
+    4.393364666223644,
+    7.862490277911324
+  ],
+  "checks": {
+    "submission_excel": true,
+    "official_mapping": true,
+    "retained_edge_index": true,
+    "unique_network_matrix": true,
+    "coordinates_unchanged": true,
+    "all_unique_edges": true
+  },
+  "source_hashes": {
+    "F:\\学校\\SCI终稿\\MLR\\02_Results\\Model1_all_significant_annotated.csv": "bb7d0af42c65a10e8b797b9b36372117345759586801f68443f5a860ae109b84",
+    "F:\\学校\\SCI终稿\\MLR\\01_Code\\atlas_reference\\brainnetome_official_yeo7_yeo17_mapping.csv": "c39f3e787268fd0b8c6857b46cbb9ec10e2b9108f6caf9e8d7aae55f7bc21554",
+    "F:\\学校\\SCI终稿\\MLR\\02_Results\\SC_retained_edge_index.csv": "6bd063c1c48bf858cfde67c8381e6f70f56facd66ebacca23b81c90c71f7c3e2",
+    "F:\\学校\\SCI终稿\\MLR\\02_Results\\Model1_network_matrix_unique.csv": "a62aa794c9047e22f8b23af050f0e2435478f9dcac4f58a577e60fad9463738a",
+    "F:\\UKB\\work_file\\PA_Brain\\Model1_brain_connectome_2026-11-12\\inputs\\Model1_node_information.csv": "e5d6d60e0a763922f08f55fa5b0261d312e1e74466fbe4c4476b9aff4aac524e",
+    "F:\\学校\\SCI终稿\\total\\03_Supplementary\\Supplemental_Digital_Content_4.xlsx": "c9577b38546d830551b8f6f400b1e349548c619c81f613adacf1166f5f496cea"
+  },
+  "supplementary_workbook_check": {
+    "date": "2026-11-16",
+    "numeric_values_unchanged": true,
+    "network_labels_verified": true
+  }
+}

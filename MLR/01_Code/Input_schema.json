@@ -1,0 +1,38 @@
+{
+  "restricted_inputs_not_redistributed": {
+    "SC_adjacent_PLS_data_filt.mat": {
+      "X": "189 x 19319 SC weights",
+      "Y_all": "189 x 47 supplied PA variables; select 11 by Y_labels",
+      "Y_labels": "PA variable labels",
+      "subject_ids": "189 participant linkage keys",
+      "group_labels": "HC=0; MDD=1",
+      "edge_mask": "30135-entry existing mask; 19319 retained"
+    },
+    "new_extracted.csv": {
+      "join_key": "eid",
+      "required_columns": [
+        "Age_at_recruitment",
+        "Sex",
+        "Body_mass_index",
+        "Townsend_deprivation_index",
+        "Education",
+        "Ethnicity",
+        "Employment_status",
+        "Average_total_household_income_before_tax",
+        "Alcohol_intake_frequency",
+        "smoking_status"
+      ]
+    }
+  },
+  "primary_test_family": [
+    11,
+    19319
+  ],
+  "input_hashes": {
+    "brainnetome_official_yeo7_yeo17_mapping.csv": "c39f3e787268fd0b8c6857b46cbb9ec10e2b9108f6caf9e8d7aae55f7bc21554",
+    "Brainnetome_subcortical_36node_hierarchy.csv": "04d6dd77e5c4dccdf9bbed921995189f33c6ae164436a0c2084f06582e02bea2",
+    "new_extracted.csv": "165395b7c1d181a4b48fd4c7639459c3089a97af6c0c1e0a99deb8235dcf6a65",
+    "SC_adjacent_PLS_data_filt.mat": "da0d749403b4b019d0cc3f451d523ff873d1e9eb8285308e4197b23377c7b3bf",
+    "subregion_func_network_Yeo_updated.csv": "f3cf6ce93f071cf7cfb6de0df78cead1551ebc879ba8d903eb186505b5eedb70"
+  }
+}

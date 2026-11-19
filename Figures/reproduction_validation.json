@@ -1,0 +1,498 @@
+{
+  "date": "2026-11-18",
+  "models_refitted": false,
+  "figure3_layout": "combined",
+  "main_figures": {
+    "Figure_1": {
+      "width_mm": 165.99999889797633,
+      "height_mm": 130.42856979370117,
+      "dpi": 1200,
+      "mode": "RGB",
+      "pages": 1,
+      "sha256": "4b6951e61eb35f68fcbf5bf9ce4b62ec32f555b47e519302c6229c2675b85d4c"
+    },
+    "Figure_2": {
+      "width_mm": 165.99999889797633,
+      "height_mm": 220.99999016655815,
+      "dpi": 1200,
+      "mode": "RGB",
+      "pages": 1,
+      "sha256": "629f1a0d2b020425359cd3af24c745ac0cf71444790b621eabc3068948954db7"
+    },
+    "Figure_3": {
+      "width_mm": 165.99999889797633,
+      "height_mm": 203.99999423556855,
+      "dpi": 600,
+      "mode": "RGB",
+      "pages": 1,
+      "sha256": "3946ca49aebc005e4a79386918d9a271803054a9cdd3ab21ba64abb4d9d9e145"
+    }
+  },
+  "main_figures_match_current_submission": true,
+  "brain_numeric_checks": {
+    "Model1": {
+      "records": 86,
+      "unique_edges": 79,
+      "statistic": "t_PA",
+      "minimum_t": 4.393364666223644,
+      "maximum_t": 7.862490277911324
+    },
+    "Model2": {
+      "records": 34,
+      "unique_edges": 25,
+      "statistic": "t_Int",
+      "minimum_t": 4.6605570444091935,
+      "maximum_t": 5.851123437493216
+    }
+  },
+  "network_matrices": {
+    "Model1": {
+      "records": 86,
+      "unique_edges": 79,
+      "matrix_lower_triangle_sum": 79,
+      "unique_network_pair_counts": {
+        "SC-LIM": 8,
+        "SC-FPN": 7,
+        "LIM-FPN": 5,
+        "VIS-DAN": 4,
+        "DAN-DMN": 4,
+        "DAN-FPN": 4,
+        "VIS-SMN": 4,
+        "SMN-FPN": 3,
+        "SC-VAN": 3,
+        "DAN-LIM": 3,
+        "LIM-DMN": 3,
+        "SMN-LIM": 3,
+        "DAN-VAN": 3,
+        "SC-DMN": 3,
+        "VAN-DMN": 3,
+        "VAN-LIM": 2,
+        "SMN-DMN": 2,
+        "SC-VIS": 2,
+        "VIS-VIS": 2,
+        "FPN-DMN": 2,
+        "VIS-VAN": 1,
+        "SC-DAN": 1,
+        "VIS-LIM": 1,
+        "SC-SMN": 1,
+        "DAN-DAN": 1,
+        "VIS-DMN": 1,
+        "SMN-DAN": 1,
+        "VIS-FPN": 1,
+        "SC-SC": 1
+      },
+      "record_network_pair_counts": {
+        "SC-LIM": 8,
+        "SC-FPN": 8,
+        "LIM-FPN": 6,
+        "VIS-DAN": 5,
+        "DAN-DMN": 4,
+        "DAN-FPN": 4,
+        "VIS-SMN": 4,
+        "DAN-LIM": 4,
+        "LIM-DMN": 4,
+        "VAN-DMN": 4,
+        "SMN-FPN": 3,
+        "DAN-VAN": 3,
+        "SC-VAN": 3,
+        "SC-DMN": 3,
+        "SMN-LIM": 3,
+        "SMN-DMN": 2,
+        "VIS-VAN": 2,
+        "VAN-LIM": 2,
+        "VIS-VIS": 2,
+        "SC-VIS": 2,
+        "FPN-DMN": 2,
+        "SC-DAN": 1,
+        "VIS-LIM": 1,
+        "SC-SMN": 1,
+        "DAN-DAN": 1,
+        "VIS-DMN": 1,
+        "SMN-DAN": 1,
+        "VIS-FPN": 1,
+        "SC-SC": 1
+      },
+      "unique_connection_classes": {
+        "Cortical-Cortical": 53,
+        "Subcortical-Cortical": 25,
+        "Subcortical-Subcortical": 1
+      }
+    },
+    "Model2": {
+      "records": 34,
+      "unique_edges": 25,
+      "matrix_lower_triangle_sum": 25,
+      "unique_network_pair_counts": {
+        "SMN-DMN": 3,
+        "SC-DAN": 3,
+        "DAN-VAN": 3,
+        "VIS-SMN": 2,
+        "LIM-DMN": 2,
+        "SMN-DAN": 1,
+        "SMN-LIM": 1,
+        "SC-SMN": 1,
+        "VIS-DAN": 1,
+        "DAN-LIM": 1,
+        "SC-FPN": 1,
+        "SC-LIM": 1,
+        "DAN-FPN": 1,
+        "SC-DMN": 1,
+        "VIS-LIM": 1,
+        "VAN-FPN": 1,
+        "VIS-VAN": 1
+      },
+      "record_network_pair_counts": {
+        "SMN-DMN": 4,
+        "SC-DAN": 3,
+        "LIM-DMN": 3,
+        "VIS-SMN": 3,
+        "SMN-LIM": 3,
+        "DAN-VAN": 3,
+        "SMN-DAN": 2,
+        "SC-SMN": 2,
+        "VIS-DAN": 2,
+        "SC-DMN": 2,
+        "DAN-LIM": 1,
+        "SC-LIM": 1,
+        "SC-FPN": 1,
+        "DAN-FPN": 1,
+        "VIS-LIM": 1,
+        "VAN-FPN": 1,
+        "VIS-VAN": 1
+      },
+      "unique_connection_classes": {
+        "Cortical-Cortical": 18,
+        "Subcortical-Cortical": 7
+      }
+    }
+  },
+  "supplementary_tables_and_figures": {
+    "tables": {
+      "SDC1_tables_1_to_6": true,
+      "SDC3_band_summary": true
+    },
+    "workbook": {
+      "SDC4_tables_9_10_11_records": [
+        86,
+        34,
+        34
+      ],
+      "numeric_cells_verified": 1060,
+      "all_ROI_and_network_labels_match": true,
+      "formula_errors": 0
+    },
+    "supplementary_figures": {
+      "Supplemental_Digital_Content_2_RCS_overall_MPA.pdf": {
+        "same_rendered_pixels": true,
+        "same_text": true
+      },
+      "Supplemental_Digital_Content_5_RCS_nonsignificant_bands.pdf": {
+        "same_rendered_pixels": true,
+        "same_text": true
+      }
+    }
+  },
+  "optional_full_matlab_rerender_tested_in_this_check": false,
+  "figure2_reference_guides": [
+    {
+      "feature": "125_150mg",
+      "points": 350,
+      "p_nonlinearity": 1.436119119139e-06,
+      "p_FDR": 1.436119119139e-05,
+      "curve_sha256": "77ff7bcc0929e6ba660a6822de67d2c92f7d43334c3fd7fc5ecc4cf96409876d",
+      "HR_guide": {
+        "HR": 0.6,
+        "reference_min_week": 30.24,
+        "duration_min_week": [
+          93.64032984571057
+        ],
+        "additional_duration_from_reference": [
+          63.40032984571057
+        ],
+        "interpolation": "numpy.interp along the saved plotted polyline; no extrapolation",
+        "interpretation": "Model point estimates relative to the band-specific reference, not a treatment threshold."
+      }
+    },
+    {
+      "feature": "150_175mg",
+      "points": 350,
+      "p_nonlinearity": 1.8022947908705184e-05,
+      "p_FDR": 9.011473954352592e-05,
+      "curve_sha256": "4e049d531aa71708d91a29266d0ca24b32720808d282ff961ea0ecf49dad2e41",
+      "HR_guide": {
+        "HR": 0.6,
+        "reference_min_week": 20.16,
+        "duration_min_week": [
+          67.28348265724489
+        ],
+        "additional_duration_from_reference": [
+          47.12348265724489
+        ],
+        "interpolation": "numpy.interp along the saved plotted polyline; no extrapolation",
+        "interpretation": "Model point estimates relative to the band-specific reference, not a treatment threshold."
+      }
+    },
+    {
+      "feature": "175_200mg",
+      "points": 350,
+      "p_nonlinearity": 0.0005862047886347,
+      "p_FDR": 0.0014655119715868,
+      "curve_sha256": "95170d54c4de8bcc5303b9ddcf62d1b99c756c4f592ee617013c8257244ac82a",
+      "HR_guide": {
+        "HR": 0.6,
+        "reference_min_week": 10.08,
+        "duration_min_week": [
+          48.96994715684442
+        ],
+        "additional_duration_from_reference": [
+          38.88994715684442
+        ],
+        "interpolation": "numpy.interp along the saved plotted polyline; no extrapolation",
+        "interpretation": "Model point estimates relative to the band-specific reference, not a treatment threshold."
+      }
+    },
+    {
+      "feature": "200_225mg",
+      "points": 350,
+      "p_nonlinearity": 0.0004063500143656,
+      "p_FDR": 0.0013545000478854,
+      "curve_sha256": "3616c46684d83fd342c0751dcd4292673ff9fbcf55b126737f4f5e470826113a",
+      "HR_guide": {
+        "HR": 0.6,
+        "reference_min_week": 0.0,
+        "duration_min_week": [
+          26.75680631458814
+        ],
+        "additional_duration_from_reference": [
+          26.75680631458814
+        ],
+        "interpolation": "numpy.interp along the saved plotted polyline; no extrapolation",
+        "interpretation": "Model point estimates relative to the band-specific reference, not a treatment threshold."
+      }
+    },
+    {
+      "feature": "225_250mg",
+      "points": 350,
+      "p_nonlinearity": 0.0163864523712901,
+      "p_FDR": 0.0305528989790374,
+      "curve_sha256": "65d28d844c5207ea9cf2fc82c19879dd56e039f4a36a7a198f37b0958841098e",
+      "HR_guide": {
+        "HR": 0.6,
+        "reference_min_week": 0.0,
+        "duration_min_week": [
+          29.743850522783188
+        ],
+        "additional_duration_from_reference": [
+          29.743850522783188
+        ],
+        "interpolation": "numpy.interp along the saved plotted polyline; no extrapolation",
+        "interpretation": "Model point estimates relative to the band-specific reference, not a treatment threshold."
+      }
+    },
+    {
+      "feature": "250_275mg",
+      "points": 350,
+      "p_nonlinearity": 0.0188243199961107,
+      "p_FDR": 0.0305528989790374,
+      "curve_sha256": "10957dac7dcaa78f9500a4a2c3373b286453363f73d34624f0db1287fecf7cb6",
+      "HR_guide": {
+        "HR": 0.6,
+        "reference_min_week": 0.0,
+        "duration_min_week": [
+          25.426469599172748
+        ],
+        "additional_duration_from_reference": [
+          25.426469599172748
+        ],
+        "interpolation": "numpy.interp along the saved plotted polyline; no extrapolation",
+        "interpretation": "Model point estimates relative to the band-specific reference, not a treatment threshold."
+      }
+    },
+    {
+      "feature": "275_300mg",
+      "points": 350,
+      "p_nonlinearity": 0.0213870292853261,
+      "p_FDR": 0.0305528989790374,
+      "curve_sha256": "1840d474b1a82c615dcb14474b5e2322fb1a4635fb67ed49140a784b2c654230",
+      "HR_guide": {
+        "HR": 0.6,
+        "reference_min_week": 0.0,
+        "duration_min_week": [
+          20.74624879655831
+        ],
+        "additional_duration_from_reference": [
+          20.74624879655831
+        ],
+        "interpolation": "numpy.interp along the saved plotted polyline; no extrapolation",
+        "interpretation": "Model point estimates relative to the band-specific reference, not a treatment threshold."
+      }
+    }
+  ],
+  "supplementary_figure_S2_pixels_unchanged_after_code_update": true,
+  "figure2_annotation_style": {
+    "color": "#C62828",
+    "duration_fontsize_pt": 6,
+    "duration_background": null,
+    "target_HR": 0.6,
+    "intersection_markers_filled": true
+  },
+  "figure3_components": {
+    "Figure_3_Brain_AB": {
+      "width_mm": 165.99999889797633,
+      "height_mm": 176.50000398423936,
+      "dpi": 1200,
+      "TIFF_sha256": "9c09bde7438f3bd975cbf7022e4cd34c794ae50a282a16c9977151ab01d11b56"
+    },
+    "Figure_3_Matrices_CD": {
+      "width_mm": 165.99999889797633,
+      "height_mm": 79.0000013563368,
+      "dpi": 1200,
+      "TIFF_sha256": "e65aecdbd6ca78b4c7af42d01f542a0e0dca761fa37771cf6de45f89f687e263"
+    }
+  },
+  "figure3_combination_checks": {
+    "date": "2026-11-18",
+    "models_refitted": false,
+    "layout": "compact translation-only A-D",
+    "content_scale": 1,
+    "source_component_image_streams_identical": true,
+    "matrix_vector_cells_with_shared_fill_and_border": 72,
+    "matrix_counts_and_colors_unchanged": true,
+    "matrix_text_unchanged": true,
+    "minimum_font_size_pt": 6.0,
+    "all_nontick_content_retained": true,
+    "matrix_axis_ticks_removed": true,
+    "matrix_labels_and_positions_unchanged": true,
+    "brain_block_pixels_unchanged_after_tick_update": true
+  },
+  "combined_figure3_ready": true,
+  "resolution_validation": {
+    "date": "2026-11-17",
+    "mode": "RGB",
+    "width_mm": 166,
+    "Figure3_brain_effective_ppi": 600,
+    "Figure3_matrix_vector_cells": 72,
+    "TIFF_dpi_by_figure": {
+      "Figure_1": 1200,
+      "Figure_2": 1200,
+      "Figure_3": 600
+    },
+    "Figure3_PDF_matrix_and_text": "vector",
+    "Figure2_RCS_ticks": "inward on both axes",
+    "Figure2_latest_change_only_forest_x_ticks": true
+  },
+  "figure3_layout_detail": "compact; 166 x 204 mm; all components at unit scale",
+  "axis_tick_update": {
+    "date": "2026-11-18",
+    "Figure2_RCS_y_ticks": "inward, on the plot side of the left y-axis",
+    "Figure2_numeric_labels": "original positions below x-axis and left of y-axis",
+    "Figure2_forest_unchanged": false,
+    "Figure3_matrix_axes": "no tick marks; labels retained at original positions",
+    "Figure3_matrix_cell_borders_and_colours_unchanged": true,
+    "Figure3_colourbar_ticks_unchanged": true,
+    "statistical_values_changed": false,
+    "supplementary_RCS_unchanged": true,
+    "Figure2_RCS_x_ticks": "inward, above the bottom x-axis",
+    "statistics_changed": false,
+    "Figure3_and_supplementary_RCS_unchanged": true,
+    "Figure2_forest_x_ticks": "inward, above the bottom x-axis",
+    "Figure2_forest_numeric_labels": "original positions below the x-axis",
+    "Figure2_RCS_unchanged": true,
+    "Figure2_forest_statistics_unchanged": true
+  },
+  "publication_typography_update": {
+    "date": "2026-11-18",
+    "Figure1_noncase_labels": [
+      {
+        "panel": "A",
+        "node": "final-control",
+        "text": "93,801 final\nnon-case participants"
+      },
+      {
+        "panel": "B",
+        "node": "source-control",
+        "text": "93,801 non-case\nparticipants"
+      }
+    ],
+    "Figure1_coordinates_and_layout_unchanged": true,
+    "Figure2_small_P_values": "multiplication sign and a superscript power of ten",
+    "Figure2_typesetting": "Matplotlib mathtext with Arial; no unsupported superscript-minus glyph",
+    "P_value_rounding_precision_unchanged": true,
+    "statistical_values_changed": false,
+    "Figure3_and_supplementary_files_unchanged": true
+  },
+  "figure2_typography_checks": {
+    "only_P_annotation_pixels_changed": true,
+    "all_numerical_results_unchanged": true,
+    "inward_axis_ticks_retained": true,
+    "superscripts_rendered_by_mathtext": true,
+    "font_family": "Arial"
+  },
+  "figure1_terminology_checks": {
+    "noncase_labels": 2,
+    "only_label_pixels_changed": true,
+    "coordinates_and_font_sizes_unchanged": true,
+    "box_overlaps": 0,
+    "connector_collisions": 0
+  },
+  "github_synchronization": {
+    "date": "2026-11-19",
+    "authoritative_source": "total/04_Figure_Code",
+    "all_current_drawing_scripts_identical": true,
+    "statistical_models_and_results_unchanged": true,
+    "main_TIFFs_match_current_submission": {
+      "Figure_1": {
+        "sha256": "4b6951e61eb35f68fcbf5bf9ce4b62ec32f555b47e519302c6229c2675b85d4c",
+        "identical_to_submission": true,
+        "dpi": 1200,
+        "mode": "RGB",
+        "compression": "LZW",
+        "pixels": [
+          7843,
+          6162
+        ],
+        "bytes": 3234164
+      },
+      "Figure_2": {
+        "sha256": "629f1a0d2b020425359cd3af24c745ac0cf71444790b621eabc3068948954db7",
+        "identical_to_submission": true,
+        "dpi": 1200,
+        "mode": "RGB",
+        "compression": "LZW",
+        "pixels": [
+          7843,
+          10441
+        ],
+        "bytes": 4128246
+      },
+      "Figure_3": {
+        "sha256": "3946ca49aebc005e4a79386918d9a271803054a9cdd3ab21ba64abb4d9d9e145",
+        "identical_to_submission": true,
+        "dpi": 600,
+        "mode": "RGB",
+        "compression": "LZW",
+        "pixels": [
+          3922,
+          4819
+        ],
+        "bytes": 7926736
+      }
+    },
+    "supplementary_rendering": {
+      "Supplemental_Digital_Content_2_RCS_overall_MPA.pdf": {
+        "rendered_pixels_identical_to_submission": true
+      },
+      "Supplemental_Digital_Content_5_RCS_nonsignificant_bands.pdf": {
+        "rendered_pixels_identical_to_submission": true
+      }
+    },
+    "matlab_rerender_repeated_in_this_check": false
+  },
+  "minimal_release_checks": {
+    "unused_files_excluded": 6,
+    "main_TIFFs_identical_to_submission": true,
+    "supplementary_rendered_pixels_identical": true,
+    "active_entry_points_and_local_document_links_valid": true,
+    "model_fitting_and_statistics_unchanged": true
+  }
+}

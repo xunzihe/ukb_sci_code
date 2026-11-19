@@ -1,0 +1,9 @@
+Network,Name,R,G,B
+SC,Subcortical regions,0.43,0.43,0.43
+VIS,Visual network,0.49,0.25,0.67
+SMN,Somatomotor network,0.2,0.52,0.78
+DAN,Dorsal attention network,0.22,0.64,0.35
+VAN,Ventral attention network,0.95,0.58,0.18
+LIM,Limbic network,0.82,0.7,0.22
+FPN,Frontoparietal control network,0.84,0.27,0.28
+DMN,Default mode network,0.31,0.7,0.84
